@@ -4,7 +4,7 @@ This is a personal project focused on exploring various models for creating a Mu
 
 Recommendation systems aim to suggest items to users based on their preferences and behaviour. The project explores different recommendation techniques, each with its unique approach to predicting user preferences. The primary goal is to understand and implement different recommendation techniques and evaluate their performance. The effectiveness of these models is evaluated using various metrics to determine the best approach for providing accurate recommendations.
 
-The models explored in this project include:
+You can view the detailed Notebook for this project [here](https://github.com/Najd-Binrabah/Music-Recommendation-System/blob/main/Music_Recommendation_System.ipynb). The models explored in this project include:
 
 ### 1. Popularity-Based Recommendation System:
 This model provides a baseline using overall popularity metrics to recommend popular items. It is not personalized; instead, it simply recommends to a user the most popular items that the user has not previously consumed.
